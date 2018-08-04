@@ -209,8 +209,11 @@ a.social:hover {
 }
 /* Styles for experience page */
 
-.experience {
-	
-	
+.card2 {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  text-align: left;
 }
+
+
 
